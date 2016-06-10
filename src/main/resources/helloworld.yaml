@@ -4,6 +4,7 @@ server:
   applicationConnectors:
   - type: http
     port: 8080
+  adminConnectors: []
 
 logging:
   level: info
