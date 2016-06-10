@@ -14,5 +14,5 @@ gcloud config set project <project id>
 mvn gcloud:deploy
 ```
 
-If all succeeds, you should be able to browse to http://<project-id>.appspot.com/ and receive
+If all succeeds, you should be able to browse to http://&lt;project-id&gt;.appspot.com/ and receive
 a lovely greeting.
